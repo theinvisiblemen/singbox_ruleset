@@ -1,0 +1,21 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "tesla.com",
+        "tesla-cdn.thron.com",
+        "solarcity.com",
+        "tesla.services",
+        "tesla.com.cn",
+        "teslamotors.cn",
+        "teslamotors.com.cn",
+        "teslaenergy.services",
+        "teslamotors.com",
+        "teslazta.net",
+        "tesla-cdn.thron.cn",
+        "ts.la"
+      ]
+    }
+  ],
+  "version": 3
+}

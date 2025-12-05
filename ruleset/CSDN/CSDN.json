@@ -1,0 +1,31 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "iteye.com",
+        "gitcode.com",
+        "gitbook.cn",
+        "powerlinux.com.cn",
+        "datasea.cn",
+        "programmer.com.cn",
+        "csdnimg.cn",
+        "gitcode.net",
+        "csto.com",
+        "tinymind.com",
+        "csdn.net",
+        "topcto50.com",
+        "qualcomm-challenge.com",
+        "csdn.com",
+        "programmer.net.cn",
+        "kaifayun.com",
+        "tinymind.cn",
+        "tinymind.com.cn",
+        "gitchat.cn",
+        "codechina.net",
+        "linuxpower.com.cn",
+        "csdn.net.cn"
+      ]
+    }
+  ],
+  "version": 3
+}

@@ -1,0 +1,24 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "lipro.net",
+        "mklink.com.cn",
+        "flymeauto.com",
+        "meiklife.cn",
+        "meizu.cn",
+        "lipro.com",
+        "mzssp.cn",
+        "flyme.com",
+        "meizu.com",
+        "meizuapi.com",
+        "mblu.com",
+        "flyme.net",
+        "flyme.cn",
+        "meizu.com.hk",
+        "mzres.com"
+      ]
+    }
+  ],
+  "version": 3
+}

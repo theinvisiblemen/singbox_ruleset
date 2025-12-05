@@ -1,0 +1,46 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "livechina.com",
+        "cctvpic.com",
+        "livechina.cn",
+        "cctvpro.cn",
+        "cctv.cn",
+        "xn--fiq53l6wcx3kp9bc7joo6apn8a.cn",
+        "gjgbdszt.net.cn",
+        "cctvlib.cn",
+        "olympicchannelchina.cn",
+        "tvcc.com.cn",
+        "cnms.net.cn",
+        "ipanda.cn",
+        "gjgbdszt.cn",
+        "cctv.com",
+        "cntvwb.cn",
+        "xn--fiq53l90et9fpncc7joo6apn8a.cn",
+        "cntv.cn",
+        "zggbdszt.net.cn",
+        "cctvlibrary.cn",
+        "ipanda.net",
+        "cntv.com.cn",
+        "gjgbdszt.com.cn",
+        "citv.net.cn",
+        "zygbdszt.net.cn",
+        "xn--fiq53l6wcx3kp9bc7joo6apn8a.xn--fiqs8s",
+        "ipanda.com",
+        "zggbdszt.com.cn",
+        "xn--kprv4ewxfr9cpxcc7joo6apn8a.cn",
+        "cctvlibrary.com.cn",
+        "xn--kprv4ewxfr9cpxcc7joo6apn8a.xn--fiqs8s",
+        "cctvlib.com.cn",
+        "tvcc.cn",
+        "cctvpro.com.cn",
+        "chinalive.com",
+        "zggbdszt.cn",
+        "chinaepg.cn",
+        "ipanda.com.cn"
+      ]
+    }
+  ],
+  "version": 3
+}

@@ -1,0 +1,9 @@
+# ZDNS
+
+#### 规则链接
+
+**GitHub**
+https://raw.githubusercontent.com/theinvisiblemen/sing-box_ruleset/main/ruleset/ZDNS/ZDNS.srs
+
+**CDN**
+https://cdn.jsdelivr.net/gh/theinvisiblemen/sing-box_ruleset@main/ruleset/ZDNS/ZDNS.srs
