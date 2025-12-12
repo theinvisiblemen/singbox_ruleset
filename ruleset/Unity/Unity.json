@@ -1,0 +1,18 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "unity.com",
+        "multiplay.cn",
+        "unity3dusercontent.com",
+        "unityedu.cn",
+        "unity3d.com",
+        "unityedu.com",
+        "unitychina.cn",
+        "unityedu.com.cn",
+        "unity.cn"
+      ]
+    }
+  ],
+  "version": 3
+}

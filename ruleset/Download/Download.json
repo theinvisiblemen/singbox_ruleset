@@ -1,0 +1,17 @@
+{
+  "rules": [
+    {
+      "domain_keyword": [
+        "xlliveud",
+        "thunder",
+        "yunpan",
+        "aria2",
+        "xunlei"
+      ],
+      "domain_suffix": [
+        "qbittorrent.org"
+      ]
+    }
+  ],
+  "version": 3
+}
